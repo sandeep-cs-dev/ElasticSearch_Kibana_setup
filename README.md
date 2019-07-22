@@ -6,4 +6,5 @@ Setting up Single node Elastic Search with Kibana  using Vagrant and VirtualBox 
 * run 'vagrant ssh' to SSH to vm.
 * you can test Elastic Search and Kibana in host machine by hitting urls localhost:9200/ and localhost:5601 respectively.
 * you can change vagrant config file as per your requirement.
-Note: Make sure you have Virtual box installed in your machine and have Vitualization enabled in BIOS settings.
+
+Note: *Make sure you have Virtual box installed in your machine and have Vitualization enabled in BIOS settings.*
